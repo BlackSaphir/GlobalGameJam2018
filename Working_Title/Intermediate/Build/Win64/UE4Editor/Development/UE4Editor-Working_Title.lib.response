@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Working_Title.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\roman\Desktop\SourceTreeProjekte\GlobalGameJam2018\Working_Title\Intermediate\Build\Win64\UE4Editor\Development\Working_Title\Working_Title.cpp.obj"
+"C:\Users\roman\Desktop\SourceTreeProjekte\GlobalGameJam2018\Working_Title\Intermediate\Build\Win64\UE4Editor\Development\Working_Title\Working_TitleCharacter.cpp.obj"
+"C:\Users\roman\Desktop\SourceTreeProjekte\GlobalGameJam2018\Working_Title\Intermediate\Build\Win64\UE4Editor\Development\Working_Title\Working_TitleGameMode.cpp.obj"
+"C:\Users\roman\Desktop\SourceTreeProjekte\GlobalGameJam2018\Working_Title\Intermediate\Build\Win64\UE4Editor\Development\Working_Title\Working_Title.init.gen.cpp.obj"
+"C:\Users\roman\Desktop\SourceTreeProjekte\GlobalGameJam2018\Working_Title\Intermediate\Build\Win64\UE4Editor\Development\Working_Title\Working_TitleCharacter.gen.cpp.obj"
+"C:\Users\roman\Desktop\SourceTreeProjekte\GlobalGameJam2018\Working_Title\Intermediate\Build\Win64\UE4Editor\Development\Working_Title\Working_TitleGameMode.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Working_Title\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\roman\Desktop\SourceTreeProjekte\GlobalGameJam2018\Working_Title\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Working_Title.lib"

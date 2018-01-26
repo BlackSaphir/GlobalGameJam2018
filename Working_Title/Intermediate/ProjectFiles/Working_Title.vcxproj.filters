@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Working_Title.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{AC5DAE26-BB55-4113-B133-45D6B7CF4516}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Working_Title.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Working_TitleEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{F58BF438-0414-45D9-B496-27CC4422F72C}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Working_Title">
+			<UniqueIdentifier>{434E9B4D-AFF1-445E-9987-FE9F0BD7380A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Working_Title\Working_Title.Build.cs">
+			<Filter>Source\Working_Title</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Working_Title\Working_Title.cpp">
+			<Filter>Source\Working_Title</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Working_Title\Working_Title.h">
+			<Filter>Source\Working_Title</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Working_Title\Working_TitleCharacter.cpp">
+			<Filter>Source\Working_Title</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Working_Title\Working_TitleCharacter.h">
+			<Filter>Source\Working_Title</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Working_Title\Working_TitleGameMode.cpp">
+			<Filter>Source\Working_Title</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Working_Title\Working_TitleGameMode.h">
+			<Filter>Source\Working_Title</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
